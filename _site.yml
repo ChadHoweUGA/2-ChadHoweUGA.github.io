@@ -23,7 +23,7 @@ navbar:
 output_dir: "."
 output:
   html_document:
-    theme: cosmo
+    theme: cyborg
     highlight: textmate
     include:
       after_body: _footer.html
