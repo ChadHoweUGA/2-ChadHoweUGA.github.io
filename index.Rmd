@@ -3,6 +3,7 @@ title: "Chad Howe, Associate Professor"
 author:  "[Department of Romance Languages](https://rom.uga.edu/) and [Department of Linguistics](https://www.linguistics.uga.edu/) at [the University of Georgia](https://www.uga.edu/)"
 output:
   html_document:
+    toc: true
     fig_width: 1
 ---
 
