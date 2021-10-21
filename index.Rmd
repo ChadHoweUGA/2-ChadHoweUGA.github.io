@@ -10,7 +10,7 @@ output:
 
 # {.tabset}
 
-## Profile
+## About
 <style>
 .column-left{
   float: left;
@@ -28,29 +28,61 @@ output:
 
 I am [Associate Professor of Spanish Linguistics](http://rom.uga.edu/directory/people/chad-howe) with a joint appointment in the [Department of Romance Languages](http://rom.uga.edu/) and the [Department of Linguistics](http://www.linguistics.uga.edu/) at the University of Georgia. I am also faculty in the [Latin American and Caribbean Studies Institute](http://lacs.franklin.uga.edu/) where I serve as the coordinator for the [Quechua Language Program](http://lacs.franklin.uga.edu/quechua-language).
 
+For an overview of my current (and recent) projects, go to my [research page](research.html), which also includes recent/forthcoming publications and presentations. For news regarding current research, teaching, graduate student goings-on, and other follies, please check out [my Twitter feed](https://twitter.com/ChoweAthens). For information regarding my current class schedule and office hours, please consult my contact information below. [My current cv](https://drive.google.com/open?id=12AJlAyBTaXN46iEJOa2ko8zDzXhHKNwI) has the most up-to-date summary of what's going on.
+
+Current students are encouraged to consult the [Resources page of my website](https://chadhoweuga.github.io/chowe/resources.html). This (non)exhaustive list provides an overview of different resources that will help in your research, teaching, and non-UGA life. Prospective students might have a look at the list of students whose work I've directed.
+
+
 </div>
 <div class="column-center">
 <center><img src="images/ChadHowe1.jpg" width="175px"></center>  
 </div>
 
-## Schedule (Fall 2021)
+## Current Schedule
+
+<div class="well well-sm">
+  **Fall 2021**
+</div>
 
 1.  **Endangered Languages: Sustaining the World's Voices** (FYOS 1001)
 2.  Office Hours: Available by appointment only
 
-<!--
-| Time | Tuesdays | Thursdays |
-| ----------- | ----------- |  ----------- |
-| 9:30-10:45 | SPAN 3050 | SPAN 3050 |
-| 11:00-12:15 | SPAN 8650 | SPAN 8650 |
-| 12:30-1:45 | --- | FYOS 1001 |
--->
 
+<div class="well well-sm">
+  **Spring 2022**
+</div>
 
-## Goings-on
-For an overview of my current (and recent) projects, go to my [research page](research.html), which also includes recent/forthcoming publications and presentations. For news regarding current research, teaching, graduate student goings-on, and other follies, please check out [my Twitter feed](https://twitter.com/ChoweAthens). For information regarding my current class schedule and office hours, please consult my contact information below. [My current cv](https://drive.google.com/open?id=12AJlAyBTaXN46iEJOa2ko8zDzXhHKNwI) has the most up-to-date summary of what's going on.
+<table class="table table-striped table-hover ">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Tuesday</th>
+      <th>Thursday</th>
+      <th>Friday</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9:35-10:50</td>
+      <td>[LING 4886/4886](https://www.linguistics.uga.edu/courses/content/englling-48866886)</td>
+      <td>[LING 4886/4886](https://www.linguistics.uga.edu/courses/content/englling-48866886)</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>12:45-2:00</td>
+      <td>SPAN/LING 6450(</td>
+      <td>SPAN/LING 6450</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>12:40-1:30</td>
+      <td>--</td>
+      <td>--</td>
+      <td>LING 8101: Linguistics Colloquium</td>
+    </tr>
+  </tbody>
+</table>
 
-Current students are encouraged to consult the [Resources page of my website](https://chadhoweuga.github.io/chowe/resources.html). This (non)exhaustive list provides an overview of different resources that will help in your research, teaching, and non-UGA life. Prospective students might have a look at the list of students whose work I've directed.
 
 ## Graduate Coordinator
 
@@ -64,6 +96,33 @@ I serve as [Graduate Coordinator](https://www.linguistics.uga.edu/graduate-progr
 
 I also serve as the Review Editor for the journal [Studies in Hispanic and Lusophone Linguistics](https://www.degruyter.com/view/journals/shll/shll-overview.xml?language=en&tab_body=editorialContent-75079). Reviews of academic books (e.g., monographs, edited volumes, handbooks, etc.) are generally solicited individually. If you would like for your book or volume to be considered for a review in SHLL, please have your commissioning editor arrange for a copy to be delivered to us. If you are working on a review, I strongly suggest reading the many excellent samples that have been published in previous volumes. There are also a number of useful guides and how-to's available that can help you as you put together your submission--such as [this article by Casey Brienza from Inside Higher Ed](https://www.insidehighered.com/advice/2015/03/27/essay-writing-academic-book-reviews) and [this insightful resource prepared by Tala Khanmalek](https://ideasonfire.net/how-to-write-a-book-review/). 
 
+## Contact
+
+**Mailing Address**
+
+Chad Howe
+
+Department of Romance Languages
+
+University of Georgia
+
+218 Gilbert Hall
+
+Athens, GA 30622-1815
+
+USA
+
+
+- **Email:** chowe AT uga.edu
+- **Tlf:** 706-542-1075 (ROML)/706-542-5099 (LING)
+- **Fax:** 706-542-3287 (LING)
+
+</div>
+
+#
+
+
+---
 
 <!--
 It's possible to create well-designed websites for free using [RStudio's R Markdown](http://rmarkdown.rstudio.com/) and hosting them on [Github](http://github.com). This is very new and incredibly cool. It is a really powerful way to communicate science using the same reproducible workflow you use for your analyses and collaborations.
