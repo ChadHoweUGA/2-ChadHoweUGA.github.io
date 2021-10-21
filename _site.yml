@@ -1,0 +1,29 @@
+name: "Chad Howe, Ph.D."
+navbar:
+  title: "Chad Howe, Ph.D."
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Students"
+      href: students.html
+    - text: "Resources"
+      href: resources.html
+  right:
+    - icon: fa-twitter
+      href: https://twitter.com/ChoweAthens
+    - icon: fa-github
+      href: https://github.com/ChadHoweUGA
+    - text: RG
+      href: https://www.researchgate.net/profile/Chad_Howe2
+    - text: ORCiD
+      href: https://orcid.org/0000-0002-3044-1443
+output_dir: "."
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    include:
+      after_body: _footer.html

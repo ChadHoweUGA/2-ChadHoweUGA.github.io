@@ -1,0 +1,92 @@
+---
+title: "Research"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+My primary area of research is language variation and change, focusing on structural phenomena in the Romance Languages. More generally, I investigate the forces that shape language use and the subsequent effect that these forces have on how language evolves. The most recent extension of this research involves analyzed data from social media for evidence of language change. I am also involved in work related to Spanish/Quechua contact. For a full list of research-related goings on, please [see my current CV](https://drive.google.com/open?id=12AJlAyBTaXN46iEJOa2ko8zDzXhHKNwI).
+
+## Research Interests
+1.  Language variation and language change
+2.  (Variationist) Sociolinguistics
+3.  Spanish/Quechua Contact
+
+
+----
+
+
+## Recent/Upcoming
+- Chad Howe. (October) Constructional variation and category change: Temporal *haver*, *fazer*, and *ter* in Portuguese. [Hispanic Linguistics Symposium](https://hls2021.wfu.edu/index.html). Wakeforest University.
+- Chad Howe and Javier Cabezas Zapata. (October). New cycles in the grammaticalization of negation: The case of Spanish *en* DET *vida*. [Hispanic Linguistics Symposium](https://hls2021.wfu.edu/index.html). Wakeforest University.
+- Chad Howe and Camila Lívio. 2021 (September). A intensificação no português mundial: uma olhada bem variada. [Tendências de mudança no português atual. 14. Congresso Alemão de Lusitanistas](https://www.lusitanistentag2021-leipzig.de/).
+- Chad Howe and Javier Cabezas Zapata. 2021. On the development of negative *en DET vida* in Spanish. [51st Linguistic Symposium on Romance Languages](https://publish.illinois.edu/lsrl51atuiuc/). University of Illinois at Urbana Champaign. 
+- Chad Howe and Camila Lívio. 2021 (April). A Diachronic Corpus Analysis of Intensifiers in Portuguese. [Kentucky Foreign Language Conference](https://kflc.as.uky.edu/).
+- Lívio, Camila and Chad Howe. 2020. Intensification in Portuguese: A Cross-dialectal Study of *Muito* and *Bem*. *Hispania* 103(4):475-487. [Link](https://muse.jhu.edu/article/775789)
+- Howe, Chad. 2020. Corpus tools for Quechua studies: NLP for low-resource languages. [6th Annual Meeting of the Quechua Alliance](https://thequechua.org/qa-registration2020/). [Slides](https://drive.google.com/file/d/1HWg_ILUAvR3dobGZ3OrjpF9dGh_km7_q/view?usp=sharing)
+- Critchfield, Madeline and Chad Howe. 2020. Accusative Clitic Strategies in Mosquito Coast Spanish. [11th Workshop on Immigrant Languages in the Americas](http://www.workshoponimmigrantlanguages.org/wila-11.html).
+- Bateman McDonald, Bethany, Sarah Hubbel, and Chad Howe. 2020. From placeholder to pause filler: *na* in Quechua/Spanish bilingual speech. [2020 Andean Research Proseminar](https://thinkingandeanstudies.com/)
+- (April-<font size="3" color="red">CANCELED!</font>) Howe, Chad, Sarah Hubbel, and Bethany Bateman McDonald. Transfer in discourse: The case of Quechua *na*. [10th International Workshop on Spanish Sociolinguistics](https://wss10.modlangs.gatech.edu/). Georgia Tech. [Abstract](https://drive.google.com/open?id=10MYJy8qPeAyFwEAuGn-P2qIMF9NR-7gu)
+- Howe, Chad and Camila Lívio. 2020. Intensification in diachrony:A corpus analysis of *muito* and *bem* in Portuguese. [50th Linguistic Symposium on Romance Languages](http://sites.utexas.edu/lsrl50/2019/09/05/info-post/). University of Texas at Austin. [Abstract](https://drive.google.com/open?id=1jHdtj10c6dRzxZbuxXHE4e1XCxOvh9nK)
+
+
+
+----
+
+
+## Current Projects
+
+### Incipient language shift in a southern Latino community
+This project was developed in collaboration with the Roswell Voices project, which began in 2002 as a partnership between researchers at the University of Georgia (Professors William A. Kretzschmar, Jr. and Sonja Lanehart) and the Roswell Folk and Heritage Bureau, to document language and life in the community. Preliminary work indicates extended contact-induced language shift, observed in both the English and Spanish of bilingual communities (Wilson 2013, Limerick 2014). We have argued that the Mid-Atlantic US in general and Roswell, GA in particular represent an ideal test case for studying emergent speech communities in that it displays several of the benchmarks of demographic change characteristic of American urbanization during the end of the twentieth century. The combination of demographic and linguistic factors exhibited in Roswell offers a compelling new case study in our attempt to answer questions about the emergence of language patterns in the presence of relative social, ethnic, and linguistic heterogeneity. In the proposed study, we assume the perspective of individual speakers as loci for the adaptation and innovation of social practices, in this case manifested by language variables. The aggregate affect of individual speaker behavior is then proposed as a way of representing the language of a speech community. By observing the linguistic behavior of Spanish speaking residents in Roswell, this study takes advantage of a timely opportunity to observe patterns of language use as a function of the social practices of disparate communities of language users.
+
+#### Papers/Presentations:
+
+1.  Limerick, Philip. 2017. Language Contact in the US Southeast: The Case of Spanish Subject Expression in an Emerging Bilingual Community in Georgia. *Spanish in Context*. 14.1:53-77.
+2.  Howe, Chad and Philip Limerick. 2016. The PRET/PP distinction in Roswell Spanish. Seventh Annual Workshop on Immigrant Languages in the Americas. University of Georgia.
+3.  Limerick, Philip. Variable Clitic Placement in U.S. Spanish. Paper forthcoming in *Proceedings of Hispanic Linguistics Symposium*.
+4.  Howe, Chad and Philip Limerick. 2016. Past reference in Roswell Spanish: The PRET/PP distinction and beyond. 8th International Workshop on Spanish Sociolinguistics. Universidad de Puerto Rico.
+5.  Limerick, Philip. 2014. Spanish subject expression in Roswell, Georgia: Dialect formation in an emerging bilingual community. University of Georgia MA Thesis.
+
+
+### Indigenous languages in Latin America: Contact, Shift, and Maintenance
+In coordination with the Latin American Indigenous Languages Initiative, this project seeks to provide a forum for faculty and students interested in working with documenting and researching indigenous languages spoken in Central and South America. We are particularly interested in the linguistic and social outcomes of the contact between these languages and Spanish (and Portuguese). Our broader objectives with this project are to: (a) provide documentation support for researchers working with endangered languages in Latin American, (b) create corpus resources for use in scholarly and educational endeavors, and (c) provide faculty and students with resources for studying (and possibly teaching) these languages.
+
+#### Papers/Presentations:
+
+1.  Howe, Chad. 2016. Women's health and cultural intervention in Cusco, Peru: A cooperative partnership. UGA Office of International Education Global Research Collaboration Grant. ($7,600; in collaboration with Dr. Pamela Orpinas and Dr. Daron Ferris at Augusta University and CerviCusco)
+2.  Howe, Chad and Bethany Bateman. Spanish in the Quechua classroom: Challenges and Opportunities. Symposium on Indigenous Languages and Cultures /Symposium on Teaching and Learning Indigenous Languages of Latin America, Columbus, Ohio.
+3.  Hubbel, Sarah and Chad Howe. Third language acquisition of Quechua mid vowels by English L1/Spanish L2 speakers. Symposium on Indigenous Languages and Cultures /Symposium on Teaching and Learning Indigenous Languages of Latin America. Columbus, Ohio,
+4.  Bateman, Bethany and Chad Howe. 2016. Runasimita yachasunchis: Best practices in Quechua language education. 19th Annual Conference on the Americas. Milledgeville, GA.
+5.  Howe, Chad. 2015. Plurality in Quechua: Some (socio)linguistic questions. Plenary Lecture at the Linguistics Society at UGA annual conference. Athens, GA.
+6.  Bove, Kate and Chad Howe. 2015. Grammatical Borrowing as an indicator of dual identity: the case of plural marking in Quechua-Spanish bilinguals. Forging Linguistic Identities. Towson University.
+7.  Bateman, Bethany. 2015. *Reportative evidentiality in Wounaan meu-Spanish bilinguals: A comparative examination of* dice(n) que. University of Georgia Masters Thesis.
+
+
+----
+
+## Workshops
+
+### ELAN (18 de julio)
+
+<center>
+
+![](images/ELAN128.png)
+</center>
+
+1.  [Bethany Bateman McDonald (UGA, Department of Romance Languages at the University of Georgia)](https://www.rom.uga.edu/directory/people/bethany-bateman-mcdonald)
+2.  [Chad Howe (UGA, Departments of Romance Languages and Linguistics)](https://chadhoweuga.github.io/chowe/index.html)
+3.  [Sarah Hubbel (UGA, Department of Romance Languages at the University of Georgia)](https://www.rom.uga.edu/directory/people/sarah-bigger)
+
+**Descripción**
+
+Nuestro objetivo con este taller es ofrecer una introducción general al uso de [ELAN](https://archive.mpi.nl/tla/elan) para la trascripción, la anotación y el análisis de archivos orales (y visuales). ELAN es distribuido por [The Language Archive](https://archive.mpi.nl/tla/) y se puede utilizar, gratuitamente, tanto con un PC como con un MAC (y Linux). Este taller ofrecerá un resumen de las funciones básicas de ELAN como la manipulación de los archivos orales y la transcripción de entrevistas con distintos niveles de análisis (p.e. oración, palabra, etc.). Los participantes tendrán acceso a materiales en español (y muestras en el quechua) que se utilizarán durante el taller. 
+
+Los materiales para este taller [se pueden encontrar aquí](https://drive.google.com/file/d/1m4M8T6oROfO4rj78V7ccQJbpi8yqw2Rn/view?usp=sharing). Esta carpeta contiene los siguientes archivos:
+
+| Archivo          | Descripción  |
+| -------------    |-------------|
+| *ELAN_5-9_mac.zip*  | Programa de ELAN |
+| *TallerDeELAN.pdf* | Presentación del Taller |
+| *ra.rqa clip_056EBVU.wav*      | Archivo oral de muestra (Quechua)     |
+| *056_Sound Clip.zip* | Otra muestra de transcripción (Bethany)|
