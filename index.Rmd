@@ -82,7 +82,7 @@ Current students are encouraged to consult the [Resources page of my website](ht
     </tr>
     <tr>
       <td>12:45-2:00</td>
-      <td>SPAN/LING 6450(</td>
+      <td>SPAN/LING 6450</td>
       <td>SPAN/LING 6450</td>
       <td>--</td>
     </tr>
@@ -167,8 +167,8 @@ USA
 
 </div>
 
-
 ---
+
 
 <!--
 It's possible to create well-designed websites for free using [RStudio's R Markdown](http://rmarkdown.rstudio.com/) and hosting them on [Github](http://github.com). This is very new and incredibly cool. It is a really powerful way to communicate science using the same reproducible workflow you use for your analyses and collaborations.
