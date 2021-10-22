@@ -18,10 +18,6 @@ For an overview of my current (and recent) projects, go to my [research page](re
 
 Current students are encouraged to consult the [Resources page of my website](https://chadhoweuga.github.io/chowe/resources.html). This (non)exhaustive list provides an overview of different resources that will help in your research, teaching, and non-UGA life. Prospective students might have a look at the list of students whose work I've directed.
 
-<center>
-![This is me.](images/ChadHowe1.jpg){width=20%}
-</center>
-
 
 <!--
 <style>
@@ -149,6 +145,10 @@ USA
 
 </div>
 <div class="column-left">
+
+<br>
+<br>
+
 
 ![This is me.](images/ChadHowe1.jpg){width=40%}
 
