@@ -113,6 +113,21 @@ I also serve as the Review Editor for the journal [Studies in Hispanic and Lusop
 
 ## Contact
 
+<style>
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+</style>
+
+<div class="column-left">
+
 **Mailing Address**
 
 Chad Howe
@@ -133,8 +148,17 @@ USA
 - **Fax:** 706-542-3287 (LING)
 
 </div>
+<div class="column-left">
 
-#
+![This is me.](images/ChadHowe1.jpg){width=40%}
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+</div>
 
 
 ---
