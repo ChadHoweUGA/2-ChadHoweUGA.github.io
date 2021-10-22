@@ -1,4 +1,5 @@
 ---
+layout: home
 title: "Chad Howe, Associate Professor"
 author:  "[Department of Romance Languages](https://rom.uga.edu/) and [Department of Linguistics](https://www.linguistics.uga.edu/) at [the University of Georgia](https://www.uga.edu/)"
 output:
@@ -102,6 +103,12 @@ I serve as [Graduate Coordinator](https://www.linguistics.uga.edu/graduate-progr
 - [UGA Graduate School](https://grad.uga.edu/)
 - [UGA Grad School Calendar](https://grad.uga.edu/index.php/current-students/important-dates-deadlines/)
 - [UGA Department of Linguistics Graduate Handbook](https://ling.franklin.uga.edu/sites/default/files/inline-files/Graduate%20Handbook%20Revised%20July%202019.pdf)
+
+<!--
+Tips for preparing an application
+Loving languages is not enough
+-->
+
 
 ## Review Editor for SHLL
 
