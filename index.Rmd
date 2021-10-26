@@ -157,7 +157,7 @@ USA
 <br>
 
 
-![This is me.](images/ChadHowe1.jpg){width=40%}
+![This is me.](images/ChadHowe2.jpg){width=40%}
 
 <br>
 <br>
