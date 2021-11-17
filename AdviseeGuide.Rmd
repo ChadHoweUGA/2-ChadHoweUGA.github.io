@@ -17,7 +17,7 @@ params:
 
 ----
 
-<center> "The more you know, the more you know what you don't know" -Richard Feynman</center>
+<center> "The more you know, the more you know what you don't know" -Dr. Richard Feynman</center>
 
 ----
 
@@ -28,6 +28,11 @@ params:
 <center> "A dissertation is never done, but it is due" -Dr. Margaret Lubbers Quesada</center>
 
 ----
+
+<center> "Knowledge isn't free. You have to pay attention." -Dr. Richard Feynman</center>
+
+----
+
 
 # Expectations {#id}
 Below you will find details regarding my expectations as a major professor. Our mutual agreement to work together as advisor/advisee entails that you accept the conditions outlined throughout this document. Please remember that these expectations go both ways and that you should feel free to ask me about my approach to advisees.
