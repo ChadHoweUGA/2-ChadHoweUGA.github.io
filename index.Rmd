@@ -87,12 +87,29 @@ Loving languages is not enough
 </details>
 
 <details>
-  <summary><span style="color: orange;">Review Editor for SHLL</span></summary>
+  <summary><span style="color: brown;">Review Editor for SHLL</span></summary>
 <br>
 I also serve as the Review Editor for the journal [Studies in Hispanic and Lusophone Linguistics](https://www.degruyter.com/view/journals/shll/shll-overview.xml?language=en&tab_body=editorialContent-75079). Reviews of academic books (e.g., monographs, edited volumes, handbooks, etc.) are generally solicited individually. If you would like for your book or volume to be considered for a review in SHLL, please have your commissioning editor arrange for a copy to be delivered to us. If you are working on a review, I strongly suggest reading the many excellent samples that have been published in previous volumes. There are also a number of useful guides and how-to's available that can help you as you put together your submission--such as [this article by Casey Brienza from Inside Higher Ed](https://www.insidehighered.com/advice/2015/03/27/essay-writing-academic-book-reviews) and [this insightful resource prepared by Tala Khanmalek](https://ideasonfire.net/how-to-write-a-book-review/). 
 <br>
 <br>
 </details>
+
+<!--
+########################################################################
+-->
+<details>
+<br>
+<summary><span style="color: orange;">Franklin Diversity Fellows ('21-'23)</span></summary>
+
+In Fall 2021, I was chosen to participate in the 2021-23 cohort of the Franklin Diversity Fellows (formerly known as the [Administrative Fellows in Diversity Leadership](https://www.franklin.uga.edu/sites/default/files/Administrative%20Fellows%20in%20Diversity%20Leadership.pdf)). This opportunity is coordinated by Dr. Jean Martin-Williams, Associate Dean in Franklin College, and Nakia Wade, and I'll be joined in this venture by Dr. Carolyn Medine, Professor of Religion and Director of the [Institute of African American Studies](https://afam.uga.edu/). I am honoured, and quite frankly humbled, to have been selected and look forward to engaging and productive experience learning about about DEI initiatives at UGA and in the broader academic community.
+
+<br>
+</details>
+
+
+<!--
+########################################################################
+-->
 
 <details>
   <summary><span style="color: blue;">Contact Information</span></summary>
