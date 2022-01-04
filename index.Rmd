@@ -16,51 +16,37 @@ For an overview of my current (and recent) projects, go to my [research page](re
 Current students are encouraged to consult the [Resources page of my website](https://chadhoweuga.github.io/chowe/resources.html). This (non)exhaustive list provides an overview of different resources that will help in your research, teaching, and non-UGA life. Prospective students might have a look at the list of students whose work I've directed.
 
 <details>
-  <summary><span style="color: red;">Current Schedule (Fall 2021)</span></summary>
+  <summary><span style="color: red;">Current Schedule (Spring 2022)</span></summary>
 <br>
-  <div class="well well-sm">
-  **Fall 2021**
-</div>
-
-1.  **Endangered Languages: Sustaining the World's Voices** (FYOS 1001)
-2.  Office Hours: Available by appointment only
-
 
 <div class="well well-sm">
-  **Spring 2022**
-</div>
-
-<table class="table table-striped table-hover ">
-  <thead>
-    <tr>
-      <th>Time</th>
-      <th>Tuesday</th>
-      <th>Thursday</th>
-      <th>Friday</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>9:35-10:50</td>
-      <td>[LING 4886/4886](https://www.linguistics.uga.edu/courses/content/englling-48866886)</td>
-      <td>[LING 4886/4886](https://www.linguistics.uga.edu/courses/content/englling-48866886)</td>
-      <td>--</td>
-    </tr>
-    <tr>
-      <td>12:45-2:00</td>
-      <td>SPAN/LING 6450</td>
-      <td>SPAN/LING 6450</td>
-      <td>--</td>
-    </tr>
-    <tr>
-      <td>12:40-1:30</td>
-      <td>--</td>
-      <td>--</td>
-      <td>LING 8101: Linguistics Colloquium</td>
-    </tr>
-  </tbody>
-</table>
+<details>
+  <summary>**Text and Corpus Linguistics** (LING 4886/6886): Tuesdays and Thursdays, 9:35-10:50</summary>
 <br>
+**Course Description:** A "corpus"''" (plural: corpora)  is a computerized collection of text or speech. This course introduces the use of corpora to study language. These studies span academic disciplines from formal linguistics to literary analysis. We pursue them using tools like the [IMS Open Corpus Workbench](http://cwb.sourceforge.net/). However, no programming is required.  Guided by the instructor and TA, students complete an original final project
+exploring some aspect of corpus~analysis that is of special interest to them. (co-taught with Dr. John Hale)
+<br>
+
+</details>
+
+<details>
+  <summary>**Variation and Sociolinguistics in Spanish** (SPAN/LING 6450): Tuesdays and Thursdays, 12:45-2:00</summary>
+<br>
+**Descripción del curso:** Este curso les ofrecerá una introducción al estudio de la variación lingüística y la sociolingüística en la lengua española. Los temas que investigaremos durante el curso incluirá (i) el estudio de los dialectos (es decir, la dialectología), (ii) la clasificación y análisis de los rasgos dialectales, y (iii) los factores (geográficos, sociales, y lingüísticos) que influyen en la variación dialectal. Examinaremos casos específicos de los dialectos españoles en la Península Ibérica, América Latina, los Estados Unidos y otros lugares, describiendo también unas de las fuentes históricas de la variación lingüística. Describiremos también el efecto de contacto lingüístico y bilingüismo ysu rol en el desarrollo de la lengua. La clase tendrá un componente analítico en que los alumnos tendrán que analizar el ‘habla’ y aplicar unos técnicos comunes de la sociolingüística y la dialectología.
+<br>
+
+</details>
+
+<details>
+  <summary>**Linguistics Colloquium**: Fridays, 12:30-1:30</summary>
+<br>
+</details>
+<details>
+  <summary>**Office Hours**: Tuesdays, 2:00-4:00</summary>
+<br>
+**Office:** 218 Gilbert Hall (also via Zoom)
+</details>
+</div>
 </details>
 
 <details>
