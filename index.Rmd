@@ -15,6 +15,12 @@ For an overview of my current (and recent) projects, go to my [research page](re
 
 Current students are encouraged to consult the [Resources page of my website](https://chadhoweuga.github.io/chowe/resources.html). This (non)exhaustive list provides an overview of different resources that will help in your research, teaching, and non-UGA life. Prospective students might have a look at the list of students whose work I've directed.
 
+<div class="alert alert-dismissible alert-success">
+  <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+  <h4 class="alert-heading">NEWS</h4>
+  <p class="mb-0">Coming soon!</p>
+</div>
+
 <details>
   <summary><span style="color: red;">Current Schedule (Spring 2022)</span></summary>
 <br>
