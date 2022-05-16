@@ -25,16 +25,12 @@ If you’re interested in working with me, please take a look at [my current (an
 
 ## Current Advisees
 
-- [Bethany Bateman McDonald](https://www.rom.uga.edu/directory/people/bethany-bateman) (PhD, Romance Languages), Areas of Research: Sociolinguistics, Spanish/Quechua Contact
-- [Andrew Bray](http://www.linguistics.uga.edu/directory/people/andrew-bray) (PhD, Linguistics), Areas of Research: Sociolinguistics, language use among hockey players
 - [Javier Cabezas Zapata](https://rom.uga.edu/directory/people/javier-cabezas-zapata) (ABD, Romance Languages) Areas of Research: language variation, language change, grammaticalization in Spanish
-- [Kit Callaway](https://www.linguistics.uga.edu/directory/people/kit-callaway) (ABD, Linguistics) Areas of Research: language variation, pronouns and gender
 - [Katy Dwyer](https://www.linguistics.uga.edu/directory/people/katy-dwyer) (PhD, Linguistics), Areas of Research: Sociolinguistics, English in the Southeastern United States
 - [Nathaniel (Nate) Fackler](https://www.linguistics.uga.edu/directory/people/nathaniel-fackler) (PhD. Linguistics), Areas of Research: Sociolinguistics, language acquisition
 - [Sarah Hubbel](https://www.rom.uga.edu/directory/people/sarah-bigger) (PhD, Romance Languages), Areas of Research: Sociolinguistics, Spanish/Quechua Contact
 - [Rachel Kim](http://www.linguistics.uga.edu/directory/people/dot-eum-kim) (PhD, Linguistics), Areas of Research: Sociolinguistics, perception of US dialects by L2 speakers of English
 - [Camila Lívio](https://camlivio.github.io/) (PhD, Romance Languages), Areas of Research: Sociolinguistics, language variation, grammaticalization in Portuguese
-- [Shannon Rodríguez](http://www.linguistics.uga.edu/directory/people/shannon-rodriguez) (PhD, Linguistics), Areas of Research: Sociolinguistics, Spanish in the US
 
 
 ----
@@ -42,6 +38,10 @@ If you’re interested in working with me, please take a look at [my current (an
 ## Former Advisees
 To find a copy of a thesis or dissertation, go to the [UGA repository](http://dbs.galib.uga.edu/cgi-bin/getd.cgi?userid=galileo&amp;serverno=22&amp;instcode=uga1) and search by the author's name.
 
+- **Bethany Bateman-McDonald** (PhD, Romance Language), Dissertation Title: *Contact-induced subjectivization in the compound past: an examination of PP/PRET variation in Cusco Spanish* (2022)
+- **Andrew Bray** (PhD, Linguistics), Dissertation Title: *A Hockey-Based Persona: The Sociolinguistic Impact of Canadian English on American-Born Players* (2022)
+- **Katrina (Kit) Callaway** (PhD, Linguistics), Dissertation Title: *From ey to ze: Gender-neutral Pronouns as Pronominal Change* (2022)
+- **Shannon Rodríguez** (PhD, Linguistics), Dissertation Title: *Constructing, Performing, and Indexing “Southern” Latino Identities: A Mixed-Methods Analysis of the Intersection of Ethnicity and Place in the Speech of Young Adult Latinos in Georgia* (2022)
 - **Keenan (Kino) Hunt** (MA, Romance Languages), Thesis Title: *Definite articles preceding anthroponyms in Spanish: A multi-country corpus study* (2021)
 - **Madeline Critchfield** (PhD, Romance Languages), Dissertation Title: *A Tale of Two Coasts: The Impact of Language Contact on Number Marking and Subject Pronoun Expression in Two Varieties of Spanish in Nicaragua* (2021, [Assistant Professor at Rockhurst University](https://www.rockhurst.edu/directory/faculty/madeline-critchfield))
 - **Dallin V. Larsen**, Dissertation Title: *A corpus based approach to the diachrony of the Spanish discourse markers* bien, bueno, *and* claro (2020, [Spanish Lecturer at Rollins College](https://www.rollins.edu/global-languages/faculty-staff/)) [[link](https://esploro.libs.uga.edu/esploro/outputs/9949365848702959)]
