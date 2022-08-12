@@ -17,35 +17,34 @@ Current students are encouraged to consult the [Resources page of my website](ht
 
 
 <details>
-  <summary><span style="color: red;">Current Schedule (Spring 2022)</span></summary>
+  <summary><span style="color: red;">Current Schedule (Fall 2022)</span></summary>
 <br>
 
 <div class="well well-sm">
 <details>
-  <summary>**Text and Corpus Linguistics** (LING 4886/6886): Tuesdays and Thursdays, 9:35-10:50</summary>
+  <summary>**Sociolinguistics** (LING 4860): Mondays, Wednesdays, Fridays, 1:50-2:40</summary>
 <br>
-**Course Description:** A "corpus"''" (plural: corpora)  is a computerized collection of text or speech. This course introduces the use of corpora to study language. These studies span academic disciplines from formal linguistics to literary analysis. We pursue them using tools like the [IMS Open Corpus Workbench](http://cwb.sourceforge.net/). However, no programming is required.  Guided by the instructor and TA, students complete an original final project
-exploring some aspect of corpus~analysis that is of special interest to them. (co-taught with Dr. John Hale)
-<br>
-
-</details>
-
-<details>
-  <summary>**Variation and Sociolinguistics in Spanish** (SPAN/LING 6450): Tuesdays and Thursdays, 12:45-2:00</summary>
-<br>
-**Descripción del curso:** Este curso les ofrecerá una introducción al estudio de la variación lingüística y la sociolingüística en la lengua española. Los temas que investigaremos durante el curso incluirá (i) el estudio de los dialectos (es decir, la dialectología), (ii) la clasificación y análisis de los rasgos dialectales, y (iii) los factores (geográficos, sociales, y lingüísticos) que influyen en la variación dialectal. Examinaremos casos específicos de los dialectos españoles en la Península Ibérica, América Latina, los Estados Unidos y otros lugares, describiendo también unas de las fuentes históricas de la variación lingüística. Describiremos también el efecto de contacto lingüístico y bilingüismo ysu rol en el desarrollo de la lengua. La clase tendrá un componente analítico en que los alumnos tendrán que analizar el ‘habla’ y aplicar unos técnicos comunes de la sociolingüística y la dialectología.
+**Course Description:** This course is an introduction to the study of language in its cultural and social dimensions, with an emphasis on language variation and use. Throughout the semester we will focus on issues related to theory, methodology and application relevant to the various subfields in sociolinguistics. Language, like any human behavior, is shaped by constructs such as power, culture, sex, gender, race, ethnicity, social status, and social class. All of these influence the ways in which people interact with each other through communicative exchange (oral and otherwise). We will have the opportunity to discuss macro- as well as micro-level approaches to the study of language and society, looking at a variety of \textbf{qualitative} and \textbf{quantitative} perspectives.
 <br>
 
 </details>
 
 <details>
-  <summary>**Linguistics Colloquium**: Fridays, 12:30-1:30</summary>
+  <summary>**Language variation in social media** (SPAN 8450): Mondays, 3:00-5:50</summary>
+<br>
+**Course Description:** This course focuses on linguistic analysis of Computer- or Digitally-mediated communication. We will focus specifically on issues related to the Romance Languages and their use in popular forms of social media (e.g., Twitter, Facebook, WhatsApp, etc.). Topics will include the representation of dialects in digital language, linguistic change in social media, and prescriptive pressures in computer-mediated communication, illustrated with the #dudaRAE hashtag used by the Real Academic Española. The course will introduce students to contemporary methods in gathering and analyzing social media data (e.g., R and Python). Students will be encouraged to work on topics related to any Romance Language. Taught in Spanish.
+<br>
+
+</details>
+
+<details>
+  <summary>**Linguistics Proseminar (GradFIRST)**: Fridays, 1:50-2:30</summary>
 <br>
 </details>
 <details>
-  <summary>**Office Hours**: Tuesdays, 2:00-4:00</summary>
+  <summary>**Office Hours**: Wednesdays, 11:30-1:30</summary>
 <br>
-**Office:** 218 Gilbert Hall (also via Zoom)
+**Office:** 218 Gilbert Hall (also via Zoom as needed)
 </details>
 </div>
 </details>
@@ -128,7 +127,7 @@ University of Georgia
 
 218 Gilbert Hall
 
-Athens, GA 30622-1815
+Athens, GA 30602-1815
 
 USA
 
